@@ -36,6 +36,17 @@ https://doi.org/10.1007/978-3-031-87499-4_12
 ## 📊 Key Results
 
   > TSLT-Net:
-   Accuracy 99.99% (multiclass) / 100% (binary)
-   Only 9,722 parameters (~0.04 MB) — ideal for edge deployment
-   Outperforms CNN, MLP, GRU, LSTM, and RNN in both performance and efficiency
+  > Accuracy 99.99% (multiclass) / 100% (binary)
+  > Only 9,722 parameters (~0.04 MB) — ideal for edge deployment
+  > Outperforms CNN, MLP, GRU, LSTM, and RNN in both performance and efficiency
+
+##⚖️ License & Citation
+
+If you use this code, please cite:
+@article{TSLTNet2025,
+  title={TSLT-Net: A Unified Lightweight Temporal–Spatial Transformer for Intrusion Detection in Drone Networks},
+  author={Biswas, Tarun Kumar and Zannat, Ashrafun and Ishtiaq, Waqas and Hossain, Md. Alamgir},
+  journal={Scientific Reports},
+  year={2025}
+}
+
