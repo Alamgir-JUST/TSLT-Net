@@ -45,8 +45,11 @@ https://doi.org/10.1007/978-3-031-87499-4_12
 If you use this code, please cite:
 @article{TSLTNet2025,
   title={TSLT-Net: A Unified Lightweight Temporal–Spatial Transformer for Intrusion Detection in Drone Networks},
+  
   author={Biswas, Tarun Kumar and Zannat, Ashrafun and Ishtiaq, Waqas and Hossain, Md. Alamgir},
+  
   journal={Scientific Reports},
+  
   year={2025}
 }
 
