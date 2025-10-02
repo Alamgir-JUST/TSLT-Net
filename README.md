@@ -24,3 +24,14 @@ This repository contains the full implementation and experiments from the paper:
    ```bash
    git clone https://github.com/your-username/TSLT-Net.git
    cd TSLT-Net
+
+## 🗄️ Dataset
+
+We use the ISOT Drone Anomaly Detection Dataset:
+https://doi.org/10.1007/978-3-031-87499-4_12
+
+~2.35M records (benign + multiple attack types)
+
+Preprocessing: median/mode imputation, z-score normalization, label encoding
+
+Train/test split: 80/20 stratified
