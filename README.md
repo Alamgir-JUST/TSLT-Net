@@ -52,7 +52,7 @@ https://doi.org/10.1007/978-3-031-87499-4_12
   > Only 9,722 parameters (~0.04 MB) — ideal for edge deployment
   > Outperforms CNN, MLP, GRU, LSTM, and RNN in both performance and efficiency
 
-## ⚖️ License & Citation
+## License & Citation
 
 If you use this code, please cite:
 @article{TSLTNet2025,
@@ -65,3 +65,8 @@ If you use this code, please cite:
   year={2025}
 }
 
+## Contact
+
+Md. Alamgir Hossain,
+Director, Skill Morph Research Lab., Skill Morph, Dhaka, Bangladesh,
+E-Mail: alamgir.cse14.just@gmail.com
