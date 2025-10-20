@@ -25,6 +25,18 @@ This repository contains the full implementation and experiments from the paper:
    git clone https://github.com/your-username/TSLT-Net.git
    cd TSLT-Net
 
+## Proposed Model Architecture
+
+<p align="center"> <img src="https://github.com/Alamgir-JUST/TSLT-Net/blob/7973120f23995be372b136ce87b7b728d9912075/TSLT%20Model%20Architecture.png"/> </p>
+
+## Algorithm 1, proposed model
+
+<p align="center"> <img src="https://github.com/Alamgir-JUST/TSLT-Net/blob/7973120f23995be372b136ce87b7b728d9912075/Algorithm%201.png"/> </p>
+
+## Algorithm 2, proposed Unified Dual-task Training Approach 
+
+<p align="center"> <img src="https://github.com/Alamgir-JUST/TSLT-Net/blob/7973120f23995be372b136ce87b7b728d9912075/Algorithm%202.png"/> </p>
+
 ## 🗄️ Dataset
 
 > We use the ISOT Drone Anomaly Detection Dataset:
@@ -46,7 +58,7 @@ If you use this code, please cite:
 @article{TSLTNet2025,
   title={TSLT-Net: A Unified Lightweight Temporal–Spatial Transformer for Intrusion Detection in Drone Networks},
   
-  author={Biswas, Tarun Kumar and Zannat, Ashrafun and Ishtiaq, Waqas and Hossain, Md. Alamgir},
+  author={Tarun Kumar Biswas, Ashrafun Zannat, Waqas Ishtiaq, and Md. Alamgir Hossain},
   
   journal={Scientific Reports},
   
